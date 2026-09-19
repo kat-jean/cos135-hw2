@@ -13,7 +13,6 @@ void CreatePyramid(int num){ // forward declare CreatePyramid. Takes an int and 
     }
 }
 
-
 int main(){
     
     
